@@ -1,0 +1,16 @@
+C:\Users\danie\Projetos\Animes\bin\Debug\net5.0\Animes.exe
+C:\Users\danie\Projetos\Animes\bin\Debug\net5.0\Animes.deps.json
+C:\Users\danie\Projetos\Animes\bin\Debug\net5.0\Animes.runtimeconfig.json
+C:\Users\danie\Projetos\Animes\bin\Debug\net5.0\Animes.runtimeconfig.dev.json
+C:\Users\danie\Projetos\Animes\bin\Debug\net5.0\Animes.dll
+C:\Users\danie\Projetos\Animes\bin\Debug\net5.0\ref\Animes.dll
+C:\Users\danie\Projetos\Animes\bin\Debug\net5.0\Animes.pdb
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.csprojAssemblyReference.cache
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.AssemblyInfoInputs.cache
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.AssemblyInfo.cs
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.csproj.CoreCompileInputs.cache
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.dll
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\ref\Animes.dll
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.pdb
+C:\Users\danie\Projetos\Animes\obj\Debug\net5.0\Animes.genruntimeconfig.cache
